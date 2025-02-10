@@ -30,15 +30,15 @@
  [Ver video](https://drive.google.com/file/d/1WFmgT1EU8D-QbGjP3pUdpbKAdjMaaJYl/view?usp=sharing)
 
 ### Ejercicio 2: Control de Actuadores (15 Puntos)
-- *Diagrama de Conexión*: [Ver diagrama]([/proyectos/ejercicio_2_control_actuadores/diagramas](https://wokwi.com/projects/422533502981768193))
-- *Código Documentado*: [Ver código]([/proyectos/ejercicio_2_control_actuadores/codigo](https://wokwi.com/projects/422533502981768193))
-- *Video de Funcionamiento*: [Ver video]([/proyectos/ejercicio_2_control_actuadores/videos](https://drive.google.com/file/d/1YbXYVJxFlfDfHOjYYE-VzEuUQPb1o58K/view?usp=sharing))
+- *Diagrama de Conexión*: [Ver diagrama](https://wokwi.com/projects/422533502981768193)
+- *Código Documentado*: [Ver código](https://wokwi.com/projects/422533502981768193)
+- *Video de Funcionamiento*: [Ver video](https://drive.google.com/file/d/1YbXYVJxFlfDfHOjYYE-VzEuUQPb1o58K/view?usp=sharing)
 
 ### Ejercicios en Clase: Videos Demostrativos (10 Puntos)
-- *CRUD en PostgreSQL*: [Ver video]((https://drive.google.com/file/d/1WBmuz3RmDJnB9wyfxvEf0cjDDEmZAHYh/view?usp=sharing))
+- *CRUD en PostgreSQL*: [Ver video](https://drive.google.com/file/d/1WBmuz3RmDJnB9wyfxvEf0cjDDEmZAHYh/view?usp=sharing)
 - *Instalaciones y Configuraciones Básicas*: [Ver video](https://drive.google.com/file/d/1W3H2l9cODJ2BGlT7zc0_BcEZMlC1Ep_G/view?usp=sharing)
-- *LED y Botón con Raspberry Pi*: [Ver video]((https://drive.google.com/file/d/1WCLw-lRxZORgiJcmdhMEY7ZIYV3rSqls/view?usp=sharing))
-- *Conexión MQTT en Node-RED*: [Ver video]((https://drive.google.com/file/d/1WDwbN6A3-FcCra4_5iDbToF0MEmK-2BF/view?usp=sharing))
+- *LED y Botón con Raspberry Pi*: [Ver video](https://drive.google.com/file/d/1WCLw-lRxZORgiJcmdhMEY7ZIYV3rSqls/view?usp=sharing)
+- *Conexión MQTT en Node-RED*: [Ver video](https://drive.google.com/file/d/1WDwbN6A3-FcCra4_5iDbToF0MEmK-2BF/view?usp=sharing)
 
 ### Ejercicios de Soldadura (20 Puntos)
 #### Ejercicio 3: Circuito Funcional en Placa Fenólica (10 Puntos)
